@@ -90,7 +90,7 @@ analytics:
     tracking_id          : 
     anonymize_ip         : # true, false (default)
 # Google Analytics
-goole_analytics : G-NV68WT4700
+goole_analytics : UA-187335978-1
 
 # Site Author
 author:
