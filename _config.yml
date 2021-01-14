@@ -85,11 +85,12 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               :  # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-NV68WT4700
-    anonymize_ip         : true # true, false (default)
-
+    tracking_id          : 
+    anonymize_ip         : # true, false (default)
+# Google Analytics
+goole_analytics : G-NV68WT4700
 
 # Site Author
 author:
